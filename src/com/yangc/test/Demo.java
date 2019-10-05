@@ -10,5 +10,6 @@ public class Demo {
         System.out.println("第一次编辑操作");
         System.out.println("第二次编辑操作");
         System.out.println("第三次编辑操作");
+        System.out.println("第四次编辑操作");
     }
 }
