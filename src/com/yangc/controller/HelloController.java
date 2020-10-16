@@ -11,4 +11,8 @@ public class HelloController {
         return "hello";
     }
 
+    public String sayBey(){
+        return "beybey";
+    }
+
 }
